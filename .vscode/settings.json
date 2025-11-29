@@ -1,0 +1,10 @@
+{
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.customLabels.enabled": true,
+    "workbench.editor.customLabels.patterns": {
+        "a": ""
+    },
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.labelFormat": "medium"
+}
